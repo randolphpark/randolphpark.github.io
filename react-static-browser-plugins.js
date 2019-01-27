@@ -3,7 +3,7 @@
 
 // Plugins
 const plugins = [{
-  location: "/Users/rpark/randolph/randolphpark.github.io",
+  location: "/home/travis/build/randolphpark/randolphpark.github.io",
   plugins: [],
   hooks: {}
 }]

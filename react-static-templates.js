@@ -1,5 +1,5 @@
 
-import universal, { setHasBabelPlugin } from '/Users/rpark/randolph/randolphpark.github.io/node_modules/react-universal-component/dist/index.js'
+import universal, { setHasBabelPlugin } from '/home/travis/build/randolphpark/randolphpark.github.io/node_modules/react-universal-component/dist/index.js'
 
 
 setHasBabelPlugin()

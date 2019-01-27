@@ -1,5 +1,5 @@
 {
-  "entry": "/Users/rpark/randolph/randolphpark.github.io/src/index.js",
+  "entry": "/home/travis/build/randolphpark/randolphpark.github.io/src/index.js",
   "prefetchRate": 5,
   "maxThreads": null,
   "disableRoutePrefixing": false,
@@ -13,24 +13,24 @@
   "disableRuntime": false,
   "preloadPollInterval": 300,
   "paths": {
-    "ROOT": "/Users/rpark/randolph/randolphpark.github.io",
-    "LOCAL_NODE_MODULES": "/Users/rpark/randolph/randolphpark.github.io/node_modules/react-static/node_modules",
-    "SRC": "/Users/rpark/randolph/randolphpark.github.io/src",
-    "PAGES": "/Users/rpark/randolph/randolphpark.github.io/src/pages",
-    "DIST": "/Users/rpark/randolph/randolphpark.github.io/dist",
-    "ASSETS": "/Users/rpark/randolph/randolphpark.github.io/dist",
-    "PLUGINS": "/Users/rpark/randolph/randolphpark.github.io/plugins",
-    "TEMP": "/Users/rpark/randolph/randolphpark.github.io/tmp",
-    "PUBLIC": "/Users/rpark/randolph/randolphpark.github.io/public",
-    "NODE_MODULES": "/Users/rpark/randolph/randolphpark.github.io/node_modules",
-    "EXCLUDE_MODULES": "/Users/rpark/randolph/randolphpark.github.io/node_modules",
-    "PACKAGE": "/Users/rpark/randolph/randolphpark.github.io/package.json",
-    "HTML_TEMPLATE": "/Users/rpark/randolph/randolphpark.github.io/dist/index.html",
-    "STATIC_DATA": "/Users/rpark/randolph/randolphpark.github.io/dist/staticData"
+    "ROOT": "/home/travis/build/randolphpark/randolphpark.github.io",
+    "LOCAL_NODE_MODULES": "/home/travis/build/randolphpark/randolphpark.github.io/node_modules/react-static/node_modules",
+    "SRC": "/home/travis/build/randolphpark/randolphpark.github.io/src",
+    "PAGES": "/home/travis/build/randolphpark/randolphpark.github.io/src/pages",
+    "DIST": "/home/travis/build/randolphpark/randolphpark.github.io/dist",
+    "ASSETS": "/home/travis/build/randolphpark/randolphpark.github.io/dist",
+    "PLUGINS": "/home/travis/build/randolphpark/randolphpark.github.io/plugins",
+    "TEMP": "/home/travis/build/randolphpark/randolphpark.github.io/tmp",
+    "PUBLIC": "/home/travis/build/randolphpark/randolphpark.github.io/public",
+    "NODE_MODULES": "/home/travis/build/randolphpark/randolphpark.github.io/node_modules",
+    "EXCLUDE_MODULES": "/home/travis/build/randolphpark/randolphpark.github.io/node_modules",
+    "PACKAGE": "/home/travis/build/randolphpark/randolphpark.github.io/package.json",
+    "HTML_TEMPLATE": "/home/travis/build/randolphpark/randolphpark.github.io/dist/index.html",
+    "STATIC_DATA": "/home/travis/build/randolphpark/randolphpark.github.io/dist/staticData"
   },
   "plugins": [
     {
-      "location": "/Users/rpark/randolph/randolphpark.github.io",
+      "location": "/home/travis/build/randolphpark/randolphpark.github.io",
       "options": {},
       "hooks": {}
     }
