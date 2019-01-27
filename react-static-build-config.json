@@ -12,6 +12,7 @@
   "disablePreload": false,
   "disableRuntime": false,
   "preloadPollInterval": 300,
+  "siteRoot": "https://www.randolphpark.me",
   "paths": {
     "ROOT": "/home/travis/build/randolphpark/randolphpark.github.io",
     "LOCAL_NODE_MODULES": "/home/travis/build/randolphpark/randolphpark.github.io/node_modules/react-static/node_modules",
@@ -36,9 +37,8 @@
     }
   ],
   "babelExcludes": [],
-  "siteRoot": "",
   "basePath": "",
-  "publicPath": "/",
+  "publicPath": "https://www.randolphpark.me/",
   "assetsPath": "",
   "extractCssChunks": false,
   "inlineCss": false,
