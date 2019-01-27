@@ -1,5 +1,5 @@
 {
-  "entry": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/src/index.js",
+  "entry": "/Users/rpark/randolph/randolphpark.github.io/src/index.js",
   "prefetchRate": 5,
   "maxThreads": null,
   "disableRoutePrefixing": false,
@@ -13,51 +13,102 @@
   "disableRuntime": false,
   "preloadPollInterval": 300,
   "paths": {
-    "ROOT": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io",
-    "LOCAL_NODE_MODULES": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/node_modules/react-static/node_modules",
-    "SRC": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/src",
-    "PAGES": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/src/pages",
-    "DIST": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/dist",
-    "ASSETS": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/dist/dist",
-    "PLUGINS": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/plugins",
-    "TEMP": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/tmp",
-    "PUBLIC": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/public",
-    "NODE_MODULES": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/node_modules",
-    "EXCLUDE_MODULES": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/node_modules",
-    "PACKAGE": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/package.json",
-    "HTML_TEMPLATE": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/dist/index.html",
-    "STATIC_DATA": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io/dist/dist/staticData"
+    "ROOT": "/Users/rpark/randolph/randolphpark.github.io",
+    "LOCAL_NODE_MODULES": "/Users/rpark/randolph/randolphpark.github.io/node_modules/react-static/node_modules",
+    "SRC": "/Users/rpark/randolph/randolphpark.github.io/src",
+    "PAGES": "/Users/rpark/randolph/randolphpark.github.io/src/pages",
+    "DIST": "/Users/rpark/randolph/randolphpark.github.io/dist",
+    "ASSETS": "/Users/rpark/randolph/randolphpark.github.io/dist",
+    "PLUGINS": "/Users/rpark/randolph/randolphpark.github.io/plugins",
+    "TEMP": "/Users/rpark/randolph/randolphpark.github.io/tmp",
+    "PUBLIC": "/Users/rpark/randolph/randolphpark.github.io/public",
+    "NODE_MODULES": "/Users/rpark/randolph/randolphpark.github.io/node_modules",
+    "EXCLUDE_MODULES": "/Users/rpark/randolph/randolphpark.github.io/node_modules",
+    "PACKAGE": "/Users/rpark/randolph/randolphpark.github.io/package.json",
+    "HTML_TEMPLATE": "/Users/rpark/randolph/randolphpark.github.io/dist/index.html",
+    "STATIC_DATA": "/Users/rpark/randolph/randolphpark.github.io/dist/staticData"
   },
-  "siteRoot": "https://www.randolphpark.me",
   "plugins": [
     {
-      "location": "/Users/randolphpark/Documents/randolph_park_me/randolphpark.github.io",
-      "nodeLocation": null,
-      "browserLocation": null,
+      "location": "/Users/rpark/randolph/randolphpark.github.io",
       "options": {},
       "hooks": {}
     }
   ],
   "babelExcludes": [],
+  "siteRoot": "",
   "basePath": "",
-  "publicPath": "https://www.randolphpark.me/",
+  "publicPath": "/",
   "assetsPath": "",
   "extractCssChunks": false,
   "inlineCss": false,
   "routes": [
     {
       "path": "404",
-      "component": "node_modules/react-static/lib/browser/components/Default404",
-      "template": "../node_modules/react-static/lib/browser/components/Default404"
+      "component": "src/pages/404.js",
+      "isPage": true,
+      "originalPath": "404",
+      "hasGetProps": false,
+      "fromConfig": false,
+      "template": "../src/pages/404.js"
+    },
+    {
+      "path": "about",
+      "component": "src/pages/about.js",
+      "isPage": true,
+      "originalPath": "about",
+      "hasGetProps": false,
+      "fromConfig": false,
+      "template": "../src/pages/about.js"
+    },
+    {
+      "path": "blog",
+      "component": "src/pages/blog.js",
+      "isPage": true,
+      "originalPath": "blog",
+      "hasGetProps": true,
+      "fromConfig": true,
+      "template": "../src/pages/blog.js"
+    },
+    {
+      "path": "blog/post/sample-post-1",
+      "component": "src/containers/Post",
+      "originalPath": "post/sample-post-1",
+      "hasGetProps": true,
+      "fromConfig": true,
+      "template": "../src/containers/Post"
+    },
+    {
+      "path": "blog/post/sample-post-2",
+      "component": "src/containers/Post",
+      "originalPath": "post/sample-post-2",
+      "hasGetProps": true,
+      "fromConfig": true,
+      "template": "../src/containers/Post"
+    },
+    {
+      "path": "blog/post/sample-post-3",
+      "component": "src/containers/Post",
+      "originalPath": "post/sample-post-3",
+      "hasGetProps": true,
+      "fromConfig": true,
+      "template": "../src/containers/Post"
     },
     {
       "path": "/",
+      "component": "src/pages/index.js",
+      "isPage": true,
       "originalPath": "/",
       "hasGetProps": false,
-      "fromConfig": true
+      "fromConfig": false,
+      "template": "../src/pages/index.js"
     }
   ],
   "templates": [
-    "../node_modules/react-static/lib/browser/components/Default404"
+    "../src/pages/404.js",
+    "../src/pages/about.js",
+    "../src/pages/blog.js",
+    "../src/containers/Post",
+    "../src/pages/index.js"
   ]
 }
