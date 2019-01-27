@@ -1,3 +1,2 @@
-# React-Static - Blank Template
+# Github Page  [![Build Status](https://travis-ci.com/randolphpark/randolphpark.github.io.svg?branch=master)](https://travis-ci.com/randolphpark/randolphpark.github.io)
 
-To use this template, run `react-static create` and select the `blank` template.

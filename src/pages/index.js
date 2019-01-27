@@ -4,7 +4,7 @@ import { withSiteData } from 'react-static'
 
 export default withSiteData(() => (
   <div>
-    <h1 style={{ textAlign: 'center' }}>Welcome to Randolph Park Site</h1>
+    <h1 style={{ textAlign: 'center' }}>Randolph Park</h1>
     <h2>Who am I?</h2>
     <p>I am a passinate problem solver.</p>
 

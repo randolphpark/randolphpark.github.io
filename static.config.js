@@ -46,6 +46,7 @@ function getPosts() {
 }
 
 export default {
+  siteRoot: "https://www.randolphpark.me",
   getSiteData: () => ({
     title: 'React Static with Netlify CMS',
   }),
