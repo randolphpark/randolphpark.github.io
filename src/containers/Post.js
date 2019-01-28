@@ -3,7 +3,6 @@ import { withRouteData } from 'react-static'
 import { Link } from '@reach/router'
 import Moment from 'react-moment'
 import Markdown from 'react-markdown'
-//
 
 export default withRouteData(({ post }) => (
   <div className="blog-post">

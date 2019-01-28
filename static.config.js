@@ -48,7 +48,7 @@ function getPosts() {
 export default {
   siteRoot: "https://www.randolphpark.me",
   getSiteData: () => ({
-    title: 'React Static with Netlify CMS',
+    title: 'Randolph Park Site',
   }),
   getRoutes: async () => {
     const posts = await getPosts()
