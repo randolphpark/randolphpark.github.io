@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{43:function(e,t,a){"use strict";a.r(t);var n=a(0),s=a.n(n);t.default=function(){return s.a.createElement("div",null,s.a.createElement("h1",null,"This is what we're all about."),s.a.createElement("p",null,"React, static sites, performance, speed. It's the stuff that makes us tick."))}}}]);
-//# sourceMappingURL=src-pages-about.5111ad25.js.map

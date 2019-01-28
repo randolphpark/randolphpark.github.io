@@ -71,25 +71,9 @@
       "template": "../src/pages/blog.js"
     },
     {
-      "path": "blog/post/sample-post-1",
+      "path": "blog/post/randolph-park",
       "component": "src/containers/Post",
-      "originalPath": "post/sample-post-1",
-      "hasGetProps": true,
-      "fromConfig": true,
-      "template": "../src/containers/Post"
-    },
-    {
-      "path": "blog/post/sample-post-2",
-      "component": "src/containers/Post",
-      "originalPath": "post/sample-post-2",
-      "hasGetProps": true,
-      "fromConfig": true,
-      "template": "../src/containers/Post"
-    },
-    {
-      "path": "blog/post/sample-post-3",
-      "component": "src/containers/Post",
-      "originalPath": "post/sample-post-3",
+      "originalPath": "post/randolph-park",
       "hasGetProps": true,
       "fromConfig": true,
       "template": "../src/containers/Post"
