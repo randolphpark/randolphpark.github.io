@@ -1,6 +1,9 @@
 import React from 'react'
-import { withSiteData } from 'react-static'
 import Octokit from '@octokit/rest'
+import { Columns, Card, Content, Icon } from 'react-bulma-components'
+import moment from 'moment'
+
+const BASE_URL = 'https://www.randolphpark.me/'
 
 class Index extends React.Component {
   constructor() {
@@ -19,10 +22,32 @@ class Index extends React.Component {
     return (
       <div>
         <h1 style={{ textAlign: 'center' }}>Randolph Park</h1>
-        {this.state.repos.map(item => (
-          <p>{item.name}: {item.git_url}: {item.description}: {item.created_at}</p>
-        ))}
-
+        <Columns>
+          {this.state.repos.map(item => (
+            <Columns.Column size={"half"} key={item.name}>
+              <Card>
+                <Card.Header>
+                  <Card.Header.Title>
+                    {`${item.name} - ${moment(item.created_at).format("YYYY-MM-DD")}`}
+                  </Card.Header.Title>
+                </Card.Header>
+                <Card.Content>
+                  <Content>
+                    {item.description}
+                  </Content>
+                </Card.Content>
+                <Card.Footer>
+                  <Card.Footer.Item renderAs="a" href={item.svn_url}>
+                    Git Repo
+                  </Card.Footer.Item>
+                  <Card.Footer.Item renderAs="a" href={BASE_URL + item.name}>
+                    README.md Site
+                   </Card.Footer.Item>
+                </Card.Footer>
+              </Card>
+            </Columns.Column>
+          ))}
+        </Columns>
       </div>
     )
   }
