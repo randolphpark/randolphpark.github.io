@@ -71,6 +71,14 @@
       "template": "../src/pages/blog.js"
     },
     {
+      "path": "blog/post/book-becoming-a-technical-leader",
+      "component": "src/containers/Post",
+      "originalPath": "post/book-becoming-a-technical-leader",
+      "hasGetProps": true,
+      "fromConfig": true,
+      "template": "../src/containers/Post"
+    },
+    {
       "path": "blog/post/til-git",
       "component": "src/containers/Post",
       "originalPath": "post/til-git",
