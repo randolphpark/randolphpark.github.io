@@ -7,8 +7,7 @@ import Markdown from 'react-markdown'
 export default withRouteData(({ post }) => (
   <div className="blog-post">
     <Link to="/blog/">{'<'} Back</Link>
-    <br />
-    <h3>{post.data.title}</h3>
+    <h1>{post.data.title}</h1>
     <Moment format="MMMM Do, YYYY">{post.data.date}</Moment>
     <img className="image" src={post.data.thumbnail} alt="" />
     <Markdown source={post.content} escapeHtml={false} />

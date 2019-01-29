@@ -1,6 +1,6 @@
 import React from 'react'
 import Octokit from '@octokit/rest'
-import { Columns, Card, Content, Icon } from 'react-bulma-components'
+import { Columns, Card, Content } from 'react-bulma-components'
 import moment from 'moment'
 
 const BASE_URL = 'https://www.randolphpark.me/'
