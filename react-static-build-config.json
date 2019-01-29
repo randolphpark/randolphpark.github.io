@@ -71,9 +71,17 @@
       "template": "../src/pages/blog.js"
     },
     {
-      "path": "blog/post/randolph-park",
+      "path": "blog/post/til-git",
       "component": "src/containers/Post",
-      "originalPath": "post/randolph-park",
+      "originalPath": "post/til-git",
+      "hasGetProps": true,
+      "fromConfig": true,
+      "template": "../src/containers/Post"
+    },
+    {
+      "path": "blog/post/til-tooling",
+      "component": "src/containers/Post",
+      "originalPath": "post/til-tooling",
       "hasGetProps": true,
       "fromConfig": true,
       "template": "../src/containers/Post"

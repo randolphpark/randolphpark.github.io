@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{44:function(t,e,a){"use strict";a.r(e);var n=a(0),l=a.n(n),u=a(22),c=a(16);e.default=Object(u.withRouteData)(function(t){var e=t.posts;return l.a.createElement("div",null,l.a.createElement("ul",null,e.map(function(t){return l.a.createElement("li",{key:t.data.slug},l.a.createElement(c.Link,{to:"/blog/post/".concat(t.data.slug)},t.data.title))})))})}}]);
+//# sourceMappingURL=src-pages-blog.7950d3f2.js.map
