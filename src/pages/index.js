@@ -1,7 +1,8 @@
-import React from "react";
-import Octokit from "@octokit/rest";
-import { Columns, Card, Content } from "react-bulma-components";
-import moment from "moment";
+import React from 'react'
+import Octokit from '@octokit/rest'
+import { Columns, Card, Content } from 'react-bulma-components'
+import moment from 'moment'
+import axios from 'axios'
 
 const BASE_URL = "https://www.randolphpark.me/";
 
@@ -9,7 +10,9 @@ class Index extends React.Component {
   constructor() {
     super();
     const octokit = new Octokit();
-    this.state = { repos: [] };
+    this.state = {
+      repos: []
+    };
 
     octokit.repos
       .listForUser({
@@ -18,6 +21,19 @@ class Index extends React.Component {
       .then(({ data, _status, _headers }) => {
         this.setState({ repos: data });
       });
+
+    octokit.repos.listForUser({
+      username: 'randolphpark'
+    }).then(({ data, _status, _headers }) => {
+      this.setState({ repos: data });
+      // languages_url
+      axios.get('https://api.github.com/repos/randolphpark/benchmark_io_rust_elixir_rustler/languages')
+        .then((response) => console.log(response.data))
+        .catch((error) => (console.log(error)))
+        .then(() => (console.log('alywas excueted')));
+
+      console.log(data)
+    });
   }
 
   render() {
