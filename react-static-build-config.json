@@ -87,6 +87,14 @@
       "template": "../src/containers/Post"
     },
     {
+      "path": "blog/post/tips-to-sell-new-language",
+      "component": "src/containers/Post",
+      "originalPath": "post/tips-to-sell-new-language",
+      "hasGetProps": true,
+      "fromConfig": true,
+      "template": "../src/containers/Post"
+    },
+    {
       "path": "blog/post/til-tooling",
       "component": "src/containers/Post",
       "originalPath": "post/til-tooling",
