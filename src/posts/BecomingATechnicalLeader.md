@@ -59,4 +59,40 @@ What Technical Leaders Do
 - Check ideas with the customer before implementing them.
 - Restore morale when an idea collapses
 
+
+## 3. How Leaders Develop
+ 
+![alt text](https://vegdave.files.wordpress.com/2014/08/learning_curve.jpg?w=600&h=444 "Leadership growth chart")
+
+
+- Practice makes perfect
+- The great leap forward
+- Falling into the ravine
+- Growth in the real world (like image above)
+- How growth feels
+- The metacycle
+
+## 4. But I can't because...
+
+### I'm not a leader
+
+The best designed working groups are those in which leadership comes from everybody, not merely the appointed leaders. Therefore, you need not wait - you should not wait - for an appointment.
+
+### I'm not the leader type
+
+Consider leadership by innovation, by adding a new technique to the group's ways of getting things done. Leadership by innovation fit who lack the charisma and organizational skills. But do remember it is the combination of MOI.
+
+### I'll lose my technical skills
+
+Yes, it will happen. And consider it regarding MOI. This means an evolution toward a balance among the three factors.
+
+### I'm in grave danger of growing
+
+It's not bad to postpone change until circumstances force it upon you.
+
+### I don't want that much power
+
+Technical leaders possess great power in our society, but they are neither demons nor gods. They are ordinary people who happen to possess an effective approach to problem-solving, an approach based on leadership through innovation. Even without any technical background, other ordinary people can empower themselves and others by mastering some elements of this approach. 
+
+
 ---
