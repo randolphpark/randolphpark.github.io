@@ -9,7 +9,7 @@
     "serve": "serve dist -p 3000 -s"
   },
   "dependencies": {
-    "@octokit/rest": "^16.13.3",
+    "@octokit/rest": "^16.13.4",
     "axios": "^0.18.0",
     "gray-matter": "^4.0.1",
     "i": "^0.3.6",
