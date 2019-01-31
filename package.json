@@ -22,7 +22,7 @@
     "react-hot-loader": "^4.3.12",
     "react-markdown": "^4.0.3",
     "react-moment": "^0.8.4",
-    "react-static": "^6.0.18"
+    "react-static": "^6.3.4"
   },
   "devDependencies": {
     "eslint-config-react-tools": "1.x.x",
