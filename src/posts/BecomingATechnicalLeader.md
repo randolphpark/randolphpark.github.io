@@ -60,7 +60,7 @@ What Technical Leaders Do
 - Restore morale when an idea collapses
 
 
-## 3. How Leaders Develop
+## 4. How Leaders Develop
  
 ![alt text](https://vegdave.files.wordpress.com/2014/08/learning_curve.jpg?w=600&h=444 "Leadership growth chart")
 
@@ -72,7 +72,7 @@ What Technical Leaders Do
 - How growth feels
 - The metacycle
 
-## 4. But I can't because...
+## 5. But I can't because...
 
 ### I'm not a leader
 
@@ -94,5 +94,24 @@ It's not bad to postpone change until circumstances force it upon you.
 
 Technical leaders possess great power in our society, but they are neither demons nor gods. They are ordinary people who happen to possess an effective approach to problem-solving, an approach based on leadership through innovation. Even without any technical background, other ordinary people can empower themselves and others by mastering some elements of this approach. 
 
+## 6. The three great obstacles to innovation
+
+6.1 Self-blindness, concealing your own behaviour, so you have no chance of changing
+
+6.2 No-Problem Syndrome, convincing you that you already know the answer to all problems
+
+6.3 Belief in the central dogma of academic psychology, blinding you to alternative solutions, even ones you could generate without help from anyone else
+
+## 7. A tool for developing self-awareness
+
+7.1 Starting now and continuing for three months, spend five minutes each day writing in a personal journal.
+
+7.2 Try to use physical paper.
+
+7.3 It is important to find some method that ensures you write your 5 minutes each day.
+
+7.4 Write everything down and find a format that fits you most. You can start with "Facts, feelings, findings" form.
+
+7.5 Take time, review and find your pattern..
 
 ---
