@@ -114,4 +114,42 @@ Technical leaders possess great power in our society, but they are neither demon
 
 7.5 Take time, review and find your pattern..
 
----
+## 8. Developing idea power
+
+**The problem-solving leader's central dogma**
+
+Any real problem has one more solution, which nobody has found-yet
+
+**Creative errors**
+
+In fact, every mistake is a new idea, if seen by a mind prepared to use it.
+
+**Stolen ideas**
+
+You can take ideas from one person(called "plagiarising") or from many(called "research").
+
+**Corrupted, stolen ideas**
+
+Introduce an error in a stolen idea. It might transform the idea into the most creative and valuable one.
+
+**Copulation**
+
+Putting together two ideas to form a new one that's better than either of their parent.
+
+**Why ideas seem wicked**
+
+It's not an accident that error, theft, and copulation are the three great strategies for developing ideas. Their fundamental nature is shown by the role they play in the genetics of living systems.
+
+By the time, you may have noticed the relationship between the three great idea generators and the three great obstacles to innovation. Lack of self-awareness means that we never notice our errors, so we cannot capture them and convert them to something wonderful. Belief in our own master intelligence means that we would never think to copy the work of someone else, so we cannot benefit from creative theft. And knowing that there is one and only one right solution to every problem makes combining ideas seems foolish, so copulation is ruled out.
+
+## 9. The vision
+
+The journey is always up and down.
+
+* It's not the event that matters, but your reaction to the event.
+* Everybody has failures, if only because their success leads them to fail.
+* Every successful technical leader has a personal vision - It is something worth doing but also a unique part that only you can contribute. That's the key to achieving the vision. Joining a mass movement may keep you going as a person, but it won't keep you going as an innovator.
+* People without vision don't have much influence on other people.
+* Without a personal vision, no leadership skill or secret will do you any good. Without a vision, at the leading edge of technology, people and projects perish.
+
+----
