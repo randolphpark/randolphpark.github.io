@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: '[BOOK] Becoming A Technical Leader'
+title: "[BOOK] Becoming A Technical Leader"
 date: 2019-01-30T00:00:00.000Z
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/510T3Y9382L._SX327_BO1,204,203,200_.jpg
-rating: '5'
+rating: "5"
 ---
 
 ---
@@ -14,9 +14,9 @@ rating: '5'
 
 ## 2. Models of leadership style
 
-- *M*: motivation - the trophies or trouble, the push or pull that moves the people involved.
-- *O*: organisation - the existing structure that enables the ideas to be worked through into practice.
-- *I*: ideas or innovation - the seeds, the image of what will become.
+- _M_: motivation - the trophies or trouble, the push or pull that moves the people involved.
+- _O_: organisation - the existing structure that enables the ideas to be worked through into practice.
+- _I_: ideas or innovation - the seeds, the image of what will become.
 
 What Technical Leaders Do
 
@@ -49,7 +49,6 @@ What Technical Leaders Do
 - Encourage the team to drop ideas that had succeeded earlier, but cannot be extended to the new situation.
 - Revive a dropped idea later, when it has value for another part of the problem.
 
-
 ### Maintaining quality
 
 - Measure quality as the project proceeds.
@@ -59,11 +58,9 @@ What Technical Leaders Do
 - Check ideas with the customer before implementing them.
 - Restore morale when an idea collapses
 
-
 ## 4. How Leaders Develop
- 
-![alt text](https://vegdave.files.wordpress.com/2014/08/learning_curve.jpg?w=600&h=444 "Leadership growth chart")
 
+![alt text](https://vegdave.files.wordpress.com/2014/08/learning_curve.jpg?w=600&h=444 "Leadership growth chart")
 
 - Practice makes perfect
 - The great leap forward
@@ -92,7 +89,7 @@ It's not bad to postpone change until circumstances force it upon you.
 
 ### I don't want that much power
 
-Technical leaders possess great power in our society, but they are neither demons nor gods. They are ordinary people who happen to possess an effective approach to problem-solving, an approach based on leadership through innovation. Even without any technical background, other ordinary people can empower themselves and others by mastering some elements of this approach. 
+Technical leaders possess great power in our society, but they are neither demons nor gods. They are ordinary people who happen to possess an effective approach to problem-solving, an approach based on leadership through innovation. Even without any technical background, other ordinary people can empower themselves and others by mastering some elements of this approach.
 
 ## 6. The three great obstacles to innovation
 
@@ -146,10 +143,69 @@ By the time, you may have noticed the relationship between the three great idea 
 
 The journey is always up and down.
 
-* It's not the event that matters, but your reaction to the event.
-* Everybody has failures, if only because their success leads them to fail.
-* Every successful technical leader has a personal vision - It is something worth doing but also a unique part that only you can contribute. That's the key to achieving the vision. Joining a mass movement may keep you going as a person, but it won't keep you going as an innovator.
-* People without vision don't have much influence on other people.
-* Without a personal vision, no leadership skill or secret will do you any good. Without a vision, at the leading edge of technology, people and projects perish.
+- It's not the event that matters, but your reaction to the event.
+- Everybody has failures, if only because their success leads them to fail.
+- Every successful technical leader has a personal vision - It is something worth doing but also a unique part that only you can contribute. That's the key to achieving the vision. Joining a mass movement may keep you going as a person, but it won't keep you going as an innovator.
+- People without vision don't have much influence on other people.
+- Without a personal vision, no leadership skill or secret will do you any good. Without a vision, at the leading edge of technology, people and projects perish.
 
-----
+## 10. The first great obstacle to motivating others
+
+**Testing Yourself**
+
+1. Ask you willing to appear foolish in front of other people
+2. If you cann't tolerate being a public fool, you're not going to succeed in a role where all your actions are studied in detail by your admirers. Ask any parents.
+
+**Interaction Model**
+
+1. Sensory input
+
+We tend to think that our messages are perfectly clear, but you can generally assume something will be lost in every reception. The same applies when you are on the receiving end. You never get exactly what was sent.
+
+So this steps gives you at least two ways of improving your ability to understand how people react to you: 1) you can develope your ability to see and hear more accurately, 2) you can choose to be aware of the possibility that someone may not be reacting to what you think they're reacting to.
+
+2. Interpretation
+
+Awareness of the interpretation step gives you two more new abilities: 1) you know that more than one interpretation is possible, 2) even when you think several interpretations, you can be aware that your list may not include the sender's interpretation.
+
+3. Feeling
+
+You have the choice of being aware of the feeling, and differentiating if from other feelings. It can help keep things straight if you know whether you're angry or hurt or excited or scared, and to know that other people can have these feelings, even in response to you.
+
+4. Feeling about the feeling
+
+Knowing about survival rules makes you aware that people often respond to you based on experiences they had years ago. This understanding doesn't make their responses less real, but it does make it easier for you to deal with them effectively.
+
+5. Defence
+
+The survival rule might suggest defence or not. It may be hard for you to believe that anyone needs to defend himself or herself against you, but you'd better believe it if you want to understand why your attempts at motivation don't always work.
+
+6. Rules for commenting
+
+People follow their rules for commenting differently. For instance, don't ever mention anger explicitly, but don't push men directly etc.
+
+7. Outcome
+
+Then the end result comes out. The cycle probably all happened in less than a second.
+
+**Understanding why communications go awry**
+
+Over the different stage of transformation, the potential causes factors are
+
+- Perception
+- Wrong time - The transformation refers to things in the past or future, things that have no logical bearing on the present communication
+- Wrong place - Different Context
+- Wrong person - Referring to other people
+- Self-worth - My feelings about myself have a powerful influence on how I respond, but you have no direct access to how I feel about myself, either in general or right at this moment.
+
+**A way to start clearing communications**
+
+> Tell them what you _perceive_, how you _feel_ about what you perceive, and if possible how you feel about that feeling.
+
+Examples
+
+1. "Gee, I'mg having a hard time figuring that one out, and I'm feeling somewhat embarrassed to look dumb in front of you"
+
+2. "When I find myself asking you three times when you will finish this late assignment, I feel ashamed about acting like a dictator and not trusting you, yet I don't know how else to deal with my anxiety over the project schedule"
+
+---
