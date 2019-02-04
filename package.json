@@ -4,15 +4,25 @@
   "scripts": {
     "start": "react-static start",
     "stage": "react-static build --staging",
+    "test": "echo 'no test yet'",
     "build": "react-static build",
     "serve": "serve dist -p 3000 -s"
   },
   "dependencies": {
+    "@octokit/rest": "^16.14.1",
     "axios": "^0.18.0",
+    "gray-matter": "^4.0.1",
+    "i": "^0.3.6",
+    "klaw": "^3.0.0",
+    "moment": "^2.20.1",
+    "npm": "^6.7.0",
     "react": "^16.6.3",
+    "react-bulma-components": "2.3.0",
     "react-dom": "^16.6.3",
-    "react-hot-loader": "^4.3.12",
-    "react-static": "^6.0.18"
+    "react-hot-loader": "^4.6.5",
+    "react-markdown": "^4.0.3",
+    "react-moment": "^0.8.4",
+    "react-static": "^6.3.4"
   },
   "devDependencies": {
     "eslint-config-react-tools": "1.x.x",

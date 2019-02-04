@@ -1,4 +1,6 @@
 dist/
+prod/
 node_modules/
 tmp/
 deploy_build/
+yarn-error.log
