@@ -20,3 +20,15 @@ rating: '5'
 Make sure you drag Visual Studio Code app into the Applications folder. Otherwise, you'll have to go through this process again after reboot
 
 ---
+
+## alias config example
+
+In `.env` file add
+
+`alias test="jest && yarn run format`
+
+then `source .env`
+
+next time just type `test` in the folder
+
+---
