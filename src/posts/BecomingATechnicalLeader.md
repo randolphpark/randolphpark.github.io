@@ -208,4 +208,54 @@ Examples
 
 2. "When I find myself asking you three times when you will finish this late assignment, I feel ashamed about acting like a dictator and not trusting you, yet I don't know how else to deal with my anxiety over the project schedule"
 
+## 11. The second great obstacle to motivating others
+
+**Task-oriented, People-oriented and problem solving leader**
+
+1. When survival is concerned, there's no choice but to put people first.
+2. If the job isn't highly technical, the leader need not be competent but can lead by fear.
+3. People with a strong technical background can convert any task into a technical task, thus avoiding work they don't want to do.
+4. Leaders who don't care about people don't have anyone to lead unless their followers don't have a choice.
+5. No amount of caring for people will hold your audience if you have nothing to offer but pretend you do.
+6. Task-oriented leader tends to overestimate their own accomplishments.
+7. Very Little work we do is really so important that it justifies sacrificing the future possibilities of the people doing the work.
+8. When the work is complex, no leader can be absolutely sure that plans won't's "gaing aff agley".
+9. To be a successful problem-solving leader, you must keep everybody's humanness at the forefront.
+10. If you are a leader, the people are your work. There is no other work worth doing.
+
+## 12. The problem of helping others
+
+1. Wanting to help people may be a noble motive but that doesn't ake if any easier.
+2. If people don't want your help, you'll never succeed in helping them, no matter how smart or wonderful you are.
+3. Effective help can only start with mutual agreement on a clear definition of the problem.
+4. Always check whether they want your help.
+5. Even when people agree that they want your help, that agreement is not usually a lifetime contract.
+6. People who want to help other people generally expect to get something for themselves, though they may not aware of it.
+7. Most people understand that helpers are selfish, but also think they are exceptions to the role.
+8. Attempts to help are often interpreted as attempts to interfere.
+9. No matter how strange it may look, most people are actually trying to be helpful.
+10. Offer to help your neighbour only if you would want to be helped in the same situation, and do it in the way you would want to be helped.
+
+## 13. Learning to be a motivator
+
+**Always be sincere**
+
+**Transforming rules into guide**
+
+1. State the rule clearly and explicitly. e.g I must always help everybody.
+2. Acknowledge the rule's survival value and strike a bargain with your unconscious mind.
+3. Give yourself a choice. e.g I can always help everybody (if I choose to)
+4. Change from certainty to possibility. e.g I can sometimes help everybody (if I choose to)
+5. Change the rule from totality to non-totality. e.g I can sometimes help some others (if I choose to)
+6. Change from general to particular. e.g I can help other people when ...
+
+**Becoming genuinely interested in other people**
+
+## 14. Where power comes from
+
+- Power as a relationship
+- Power from technology
+- Expertise as power
+- Keeping power - what do you really want?
+
 ---
