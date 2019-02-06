@@ -1,3 +1,9 @@
 module.exports = {
-  extends: 'react-tools',
-}
+  parser: "babel-eslint",
+  extends: "react-app",
+  settings: {
+    react: {
+      version: "detect"
+    }
+  }
+};

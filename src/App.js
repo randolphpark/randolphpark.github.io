@@ -1,9 +1,8 @@
-import React from 'react'
-import { Root, Routes } from 'react-static'
-import { Link } from '@reach/router'
-import 'react-bulma-components/dist/react-bulma-components.min.css'
-import './app.css'
-
+import React from "react";
+import { Root, Routes } from "react-static";
+import { Link } from "@reach/router";
+import "react-bulma-components/dist/react-bulma-components.min.css";
+import "./app.css";
 
 const App = () => (
   <Root>
@@ -18,6 +17,6 @@ const App = () => (
       </div>
     </div>
   </Root>
-)
+);
 
-export default App
+export default App;
