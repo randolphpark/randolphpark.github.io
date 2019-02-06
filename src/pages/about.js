@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 //
 
 export default () => (
@@ -11,10 +11,22 @@ export default () => (
 
     <h2>Contact</h2>
     <ul>
-      <li>Website: <a href="https://www.randolphpark.me/">www.randolphpark.me</a></li>
-      <li>Github: <a href="https://github.com/randolphpark">github.com/randolphpark</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/randolphpark">www.linkedin.com/in/randolphpark</a></li>
-      <li>Twitter: <a href="https://twitter.com/randolph_park">@randolph_park</a></li>
+      <li>
+        Website: <a href="https://www.randolphpark.me/">www.randolphpark.me</a>
+      </li>
+      <li>
+        Github:{" "}
+        <a href="https://github.com/randolphpark">github.com/randolphpark</a>
+      </li>
+      <li>
+        LinkedIn:{" "}
+        <a href="https://www.linkedin.com/in/randolphpark">
+          www.linkedin.com/in/randolphpark
+        </a>
+      </li>
+      <li>
+        Twitter: <a href="https://twitter.com/randolph_park">@randolph_park</a>
+      </li>
     </ul>
   </div>
-)
+);

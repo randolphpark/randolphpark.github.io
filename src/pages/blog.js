@@ -1,6 +1,6 @@
-import React from 'react'
-import { withRouteData } from 'react-static'
-import { Link } from '@reach/router'
+import React from "react";
+import { withRouteData } from "react-static";
+import { Link } from "@reach/router";
 //
 
 export default withRouteData(({ posts }) => (
@@ -13,4 +13,4 @@ export default withRouteData(({ posts }) => (
       ))}
     </ul>
   </div>
-))
+));
