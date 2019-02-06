@@ -1,8 +1,8 @@
-import React from 'react'
-import Octokit from '@octokit/rest'
-import { Columns, Card, Content } from 'react-bulma-components'
-import moment from 'moment'
-import axios from 'axios'
+import React from "react";
+import Octokit from "@octokit/rest";
+import { Columns, Card, Content } from "react-bulma-components";
+import moment from "moment";
+import GitStats from "../components/GitStats";
 
 const BASE_URL = "https://www.randolphpark.me/";
 
@@ -21,19 +21,6 @@ class Index extends React.Component {
       .then(({ data, _status, _headers }) => {
         this.setState({ repos: data });
       });
-
-    octokit.repos.listForUser({
-      username: 'randolphpark'
-    }).then(({ data, _status, _headers }) => {
-      this.setState({ repos: data });
-      // languages_url
-      axios.get('https://api.github.com/repos/randolphpark/benchmark_io_rust_elixir_rustler/languages')
-        .then((response) => console.log(response.data))
-        .catch((error) => (console.log(error)))
-        .then(() => (console.log('alywas excueted')));
-
-      console.log(data)
-    });
   }
 
   render() {
@@ -52,7 +39,20 @@ class Index extends React.Component {
                   </Card.Header.Title>
                 </Card.Header>
                 <Card.Content>
-                  <Content>{item.description}</Content>
+                  <Columns>
+                    <Columns.Column
+                      size={"half"}
+                      key={item.name + "_description"}
+                    >
+                      <Content>{item.description}</Content>
+                    </Columns.Column>
+                    <Columns.Column size={"half"} key={item.name + "_state"}>
+                      <Content>
+                        {" "}
+                        <GitStats languages_url={item.languages_url} />
+                      </Content>
+                    </Columns.Column>
+                  </Columns>
                 </Card.Content>
                 <Card.Footer>
                   <Card.Footer.Item renderAs="a" href={item.svn_url}>

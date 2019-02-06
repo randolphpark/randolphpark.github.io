@@ -39,7 +39,9 @@
     "react-hot-loader": "^4.6.5",
     "react-markdown": "^4.0.3",
     "react-moment": "^0.8.4",
-    "react-static": "^6.3.4"
+    "react-static": "^6.3.4",
+    "recharts": "^1.4.2",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
