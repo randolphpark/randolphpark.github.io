@@ -29,7 +29,7 @@ class Index extends React.Component {
         <h1 style={{ textAlign: "center" }}>Randolph Park</h1>
         <Columns>
           {this.state.repos.map(item => (
-            <Columns.Column size={"half"} key={uuid()}>
+            <Columns.Column size={"half"}>
               <Card>
                 <Card.Header>
                   <Card.Header.Title>
