@@ -1,6 +1,6 @@
 import React from "react";
 import Octokit from "@octokit/rest";
-import { Columns, Card, Content } from "react-bulma-components";
+import { Columns, Card, Content, Level } from "react-bulma-components";
 import moment from "moment";
 import GitStats from "../components/GitStats";
 
@@ -29,7 +29,7 @@ class Index extends React.Component {
         <h1 style={{ textAlign: "center" }}>Randolph Park</h1>
         <Columns>
           {this.state.repos.map(item => (
-            <Columns.Column size={"half"} key={item.name}>
+            <Columns.Column size={"half"} key={uuid()}>
               <Card>
                 <Card.Header>
                   <Card.Header.Title>
@@ -41,15 +41,16 @@ class Index extends React.Component {
                 <Card.Content>
                   <Columns>
                     <Columns.Column
-                      size={"half"}
+                      size={"one-third"}
                       key={item.name + "_description"}
                     >
                       <Content>{item.description}</Content>
                     </Columns.Column>
-                    <Columns.Column size={"half"} key={item.name + "_state"}>
+                    <Columns.Column key={item.name + "_state"}>
                       <Content>
-                        {" "}
-                        <GitStats languages_url={item.languages_url} />
+                        <Level.Item>
+                          <GitStats languages_url={item.languages_url} />
+                        </Level.Item>
                       </Content>
                     </Columns.Column>
                   </Columns>
