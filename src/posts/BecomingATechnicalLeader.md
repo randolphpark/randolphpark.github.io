@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "[BOOK] Becoming A Technical Leader"
+title: "BOOK: Becoming A Technical Leader"
 date: 2019-01-30T00:00:00.000Z
 thumbnail: https://images-na.ssl-images-amazon.com/images/I/510T3Y9382L._SX327_BO1,204,203,200_.jpg
 rating: "5"
@@ -8,11 +8,11 @@ rating: "5"
 
 ---
 
-## 1. What is leadership, anyway?
+## Chapter 1. What is leadership, anyway?
 
 > Leadership is the process of creating an environment in which people become empowered.
 
-## 2. Models of leadership style
+## Chapter 2. Models of leadership style
 
 - _M_: motivation - the trophies or trouble, the push or pull that moves the people involved.
 - _O_: organisation - the existing structure that enables the ideas to be worked through into practice.
@@ -24,7 +24,7 @@ What Technical Leaders Do
 - managing the flow of ideas
 - maintaining quality
 
-## 3. A problem-solving style
+## Chapter 3. A problem-solving style
 
 ### Understanding the problem
 
@@ -58,7 +58,7 @@ What Technical Leaders Do
 - Check ideas with the customer before implementing them.
 - Restore morale when an idea collapses
 
-## 4. How Leaders Develop
+## Chapter 4. How Leaders Develop
 
 ![alt text](https://vegdave.files.wordpress.com/2014/08/learning_curve.jpg?w=600&h=444 "Leadership growth chart")
 
@@ -69,7 +69,7 @@ What Technical Leaders Do
 - How growth feels
 - The metacycle
 
-## 5. But I can't because...
+## Chapter 5. But I can't because...
 
 ### I'm not a leader
 
@@ -91,57 +91,41 @@ It's not bad to postpone change until circumstances force it upon you.
 
 Technical leaders possess great power in our society, but they are neither demons nor gods. They are ordinary people who happen to possess an effective approach to problem-solving, an approach based on leadership through innovation. Even without any technical background, other ordinary people can empower themselves and others by mastering some elements of this approach.
 
-## 6. The three great obstacles to innovation
+## Chapter 6. The three great obstacles to innovation
 
-6.1 Self-blindness, concealing your own behaviour, so you have no chance of changing
+- Self-blindness, concealing your own behaviour, so you have no chance of changing
 
-6.2 No-Problem Syndrome, convincing you that you already know the answer to all problems
+- No-Problem Syndrome, convincing you that you already know the answer to all problems
 
-6.3 Belief in the central dogma of academic psychology, blinding you to alternative solutions, even ones you could generate without help from anyone else
+- Belief in the central dogma of academic psychology, blinding you to alternative solutions, even ones you could generate without help from anyone else
 
-## 7. A tool for developing self-awareness
+## Chapter 7. A tool for developing self-awareness
 
-7.1 Starting now and continuing for three months, spend five minutes each day writing in a personal journal.
+- Starting now and continuing for three months, spend five minutes each day writing in a personal journal.
 
-7.2 Try to use physical paper.
+- Try to use physical paper.
 
-7.3 It is important to find some method that ensures you write your 5 minutes each day.
+- It is important to find some method that ensures you write your 5 minutes each day.
 
-7.4 Write everything down and find a format that fits you most. You can start with "Facts, feelings, findings" form.
+- Write everything down and find a format that fits you most. You can start with "Facts, feelings, findings" form.
 
-7.5 Take time, review and find your pattern..
+- Take time, review and find your pattern..
 
-## 8. Developing idea power
+## Chapter 8. Developing idea power
 
-**The problem-solving leader's central dogma**
+- **The problem-solving leader's central dogma**: Any real problem has one more solution, which nobody has found-yet
 
-Any real problem has one more solution, which nobody has found-yet
+- **Creative errors**:  In fact, every mistake is a new idea, if seen by a mind prepared to use it.
 
-**Creative errors**
+- **Stolen ideas**: You can take ideas from one person(called "plagiarising") or from many(called "research").
 
-In fact, every mistake is a new idea, if seen by a mind prepared to use it.
+- **Corrupted, stolen ideas**: Introduce an error in a stolen idea. It might transform the idea into the most creative and valuable one.
 
-**Stolen ideas**
+- **Copulation**: Putting together two ideas to form a new one that's better than either of their parent.
 
-You can take ideas from one person(called "plagiarising") or from many(called "research").
+- **Why ideas seem wicked**: It's not an accident that error, theft, and copulation are the three great strategies for developing ideas. Their fundamental nature is shown by the role they play in the genetics of living systems. By the time, you may have noticed the relationship between the three great idea generators and the three great obstacles to innovation. Lack of self-awareness means that we never notice our errors, so we cannot capture them and convert them to something wonderful. Belief in our own master intelligence means that we would never think to copy the work of someone else, so we cannot benefit from creative theft. And knowing that there is one and only one right solution to every problem makes combining ideas seems foolish, so copulation is ruled out.
 
-**Corrupted, stolen ideas**
-
-Introduce an error in a stolen idea. It might transform the idea into the most creative and valuable one.
-
-**Copulation**
-
-Putting together two ideas to form a new one that's better than either of their parent.
-
-**Why ideas seem wicked**
-
-It's not an accident that error, theft, and copulation are the three great strategies for developing ideas. Their fundamental nature is shown by the role they play in the genetics of living systems.
-
-By the time, you may have noticed the relationship between the three great idea generators and the three great obstacles to innovation. Lack of self-awareness means that we never notice our errors, so we cannot capture them and convert them to something wonderful. Belief in our own master intelligence means that we would never think to copy the work of someone else, so we cannot benefit from creative theft. And knowing that there is one and only one right solution to every problem makes combining ideas seems foolish, so copulation is ruled out.
-
-## 9. The vision
-
-The journey is always up and down.
+## Chapter 9. The vision
 
 - It's not the event that matters, but your reaction to the event.
 - Everybody has failures, if only because their success leads them to fail.
@@ -149,46 +133,46 @@ The journey is always up and down.
 - People without vision don't have much influence on other people.
 - Without a personal vision, no leadership skill or secret will do you any good. Without a vision, at the leading edge of technology, people and projects perish.
 
-## 10. The first great obstacle to motivating others
+## Chapter 10. The first great obstacle to motivating others
 
-**Testing Yourself**
+### Testing Yourself
 
 1. Ask you willing to appear foolish in front of other people
 2. If you cann't tolerate being a public fool, you're not going to succeed in a role where all your actions are studied in detail by your admirers. Ask any parents.
 
-**Interaction Model**
+### Interaction Model
 
-1. Sensory input
+#### Sensory input
 
 We tend to think that our messages are perfectly clear, but you can generally assume something will be lost in every reception. The same applies when you are on the receiving end. You never get exactly what was sent.
 
 So this steps gives you at least two ways of improving your ability to understand how people react to you: 1) you can develope your ability to see and hear more accurately, 2) you can choose to be aware of the possibility that someone may not be reacting to what you think they're reacting to.
 
-2. Interpretation
+#### Interpretation
 
 Awareness of the interpretation step gives you two more new abilities: 1) you know that more than one interpretation is possible, 2) even when you think several interpretations, you can be aware that your list may not include the sender's interpretation.
 
-3. Feeling
+#### Feeling
 
 You have the choice of being aware of the feeling, and differentiating if from other feelings. It can help keep things straight if you know whether you're angry or hurt or excited or scared, and to know that other people can have these feelings, even in response to you.
 
-4. Feeling about the feeling
+#### Feeling about the feeling
 
 Knowing about survival rules makes you aware that people often respond to you based on experiences they had years ago. This understanding doesn't make their responses less real, but it does make it easier for you to deal with them effectively.
 
-5. Defence
+#### Defence
 
 The survival rule might suggest defence or not. It may be hard for you to believe that anyone needs to defend himself or herself against you, but you'd better believe it if you want to understand why your attempts at motivation don't always work.
 
-6. Rules for commenting
+#### Rules for commenting
 
 People follow their rules for commenting differently. For instance, don't ever mention anger explicitly, but don't push men directly etc.
 
-7. Outcome
+#### Outcome
 
 Then the end result comes out. The cycle probably all happened in less than a second.
 
-**Understanding why communications go awry**
+### Understanding why communications go awry
 
 Over the different stage of transformation, the potential causes factors are
 
@@ -198,7 +182,7 @@ Over the different stage of transformation, the potential causes factors are
 - Wrong person - Referring to other people
 - Self-worth - My feelings about myself have a powerful influence on how I respond, but you have no direct access to how I feel about myself, either in general or right at this moment.
 
-**A way to start clearing communications**
+### A way to start clearing communications
 
 > Tell them what you _perceive_, how you _feel_ about what you perceive, and if possible how you feel about that feeling.
 
@@ -208,9 +192,9 @@ Examples
 
 2. "When I find myself asking you three times when you will finish this late assignment, I feel ashamed about acting like a dictator and not trusting you, yet I don't know how else to deal with my anxiety over the project schedule"
 
-## 11. The second great obstacle to motivating others
+## Chapter 11. The second great obstacle to motivating others
 
-**Task-oriented, People-oriented and problem solving leader**
+### Task-oriented, People-oriented and problem solving leader
 
 1. When survival is concerned, there's no choice but to put people first.
 2. If the job isn't highly technical, the leader need not be competent but can lead by fear.
@@ -223,7 +207,7 @@ Examples
 9. To be a successful problem-solving leader, you must keep everybody's humanness at the forefront.
 10. If you are a leader, the people are your work. There is no other work worth doing.
 
-## 12. The problem of helping others
+## Chapter 12. The problem of helping others
 
 1. Wanting to help people may be a noble motive but that doesn't ake if any easier.
 2. If people don't want your help, you'll never succeed in helping them, no matter how smart or wonderful you are.
@@ -236,11 +220,11 @@ Examples
 9. No matter how strange it may look, most people are actually trying to be helpful.
 10. Offer to help your neighbour only if you would want to be helped in the same situation, and do it in the way you would want to be helped.
 
-## 13. Learning to be a motivator
+## Chapter 13. Learning to be a motivator
 
-**Always be sincere**
+### Always be sincere
 
-**Transforming rules into guide**
+### Transforming rules into guide
 
 1. State the rule clearly and explicitly. e.g I must always help everybody.
 2. Acknowledge the rule's survival value and strike a bargain with your unconscious mind.
@@ -249,9 +233,9 @@ Examples
 5. Change the rule from totality to non-totality. e.g I can sometimes help some others (if I choose to)
 6. Change from general to particular. e.g I can help other people when ...
 
-**Becoming genuinely interested in other people**
+### Becoming genuinely interested in other people
 
-## 14. Where power comes from
+## Chapter 14. Where power comes from
 
 - Power as a relationship
 - Power from technology

@@ -1,10 +1,12 @@
 ---
 layout: blog
-title: '[TIL] Git'
+title: 'TIL - Git'
 date: 2019-01-29T00:00:00.000Z
 thumbnail: https://cdn-images-1.medium.com/max/2000/1*4W4fdnO680ysRhFc9ppc8w.jpeg
 rating: '5'
 ---
+
+# Git Note
 
 ---
 

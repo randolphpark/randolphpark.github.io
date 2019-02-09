@@ -6,19 +6,18 @@ thumbnail: https://doc.rust-lang.org/nomicon/img/safeandunsafe.svg
 rating: '5'
 ---
 
+# Youtube Video Note
+
 ---
 ## Tips
 
-1. don't completely rewirte software in RUST
-  - Split out slice and use RUST 
-  - Proxy out into RUST
+1. don't completely rewirte software in RUST. 1) Split out slice and use RUST. 2) Proxy out into RUST
 2. show up with code
 3. dont' sell
 4. sell sell sell - drop small cool stuff
 5. the hard part of programming isn't programming - it's about ecosystem
 6. the hard part of programming is programming
-7. be prepared for things to stay the same
-  - intorduce change slowly and mesaure impact as you go
+7. be prepared for things to stay the same. 1) intorduce change slowly and mesaure impact as you go
 8. have a problem to solve
 9. learning curves are a blessing in disguise
 

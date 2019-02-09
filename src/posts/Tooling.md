@@ -5,7 +5,7 @@ date: 2019-01-29T00:00:00.000Z
 thumbnail: https://www.elegantthemes.com/blog/wp-content/uploads/2015/04/web-development-tools.jpg
 rating: '5'
 ---
-
+# Tooling Note
 ---
 
 ## Open file using vscode by `code file.name`
@@ -15,9 +15,7 @@ rating: '5'
 3. Type `shell command`
 4. Select `Shell Command: Install 'code' command in PATH command`
 
-**NOTE**
-
-Make sure you drag Visual Studio Code app into the Applications folder. Otherwise, you'll have to go through this process again after reboot
+**NOTE**: Make sure you drag Visual Studio Code app into the Applications folder. Otherwise, you'll have to go through this process again after reboot
 
 ---
 
