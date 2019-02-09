@@ -1,7 +1,7 @@
 import React from "react";
 import { Level } from "react-bulma-components";
 import axios from "axios";
-import { PieChart, Pie, Cell } from "recharts";
+import { PieChart, Pie, Cell, Tooltip } from "recharts";
 import _ from "underscore";
 const langColor = require("../util/languageColor.json");
 
@@ -48,8 +48,7 @@ class GitStats extends React.Component {
         });
         this.setState({ data: _.values(data), loaded: true });
       })
-      .catch(error => console.log(error))
-      .then(() => console.log("alywas excueted"));
+      .catch(error => console.warn(error));
   }
 
   renderChart() {
@@ -65,6 +64,7 @@ class GitStats extends React.Component {
               label={renderCustomizedLabel}
               outerRadius={80}
               fill="#8884d8"
+              dataKey="value"
             >
               {this.state.data.map((entry, index) => (
                 <Cell
@@ -73,6 +73,7 @@ class GitStats extends React.Component {
                 />
               ))}
             </Pie>
+            <Tooltip />
           </PieChart>
 
           <Level.Item>
