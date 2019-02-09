@@ -1,8 +1,7 @@
 import React from "react";
-import Octokit from "@octokit/rest";
-import { Columns, Card, Content } from "react-bulma-components";
+import { Level } from "react-bulma-components";
 import axios from "axios";
-import { PieChart, Pie, Sector, Cell } from "recharts";
+import { PieChart, Pie, Cell } from "recharts";
 import _ from "underscore";
 const langColor = require("../util/languageColor.json");
 
@@ -58,7 +57,6 @@ class GitStats extends React.Component {
       return (
         <div>
           <PieChart width={200} height={200} onMouseEnter={this.onPieEnter}>
-            {console.log(this.state.data)}
             <Pie
               data={this.state.data}
               cx={"50%"}
@@ -69,10 +67,27 @@ class GitStats extends React.Component {
               fill="#8884d8"
             >
               {this.state.data.map((entry, index) => (
-                <Cell fill={langColor[entry.name]} />
+                <Cell
+                  key={entry.name + "-cell-chart"}
+                  fill={langColor[entry.name]}
+                />
               ))}
             </Pie>
           </PieChart>
+
+          <Level.Item>
+            {this.state.data.map(language => (
+              <Level.Item key={language.name + "-tag"}>
+                <div className="tags has-addons">
+                  <span
+                    className="tag"
+                    style={{ backgroundColor: langColor[language.name] }}
+                  />
+                  <span className="tag is-light">{language.name}</span>
+                </div>
+              </Level.Item>
+            ))}
+          </Level.Item>
         </div>
       );
     } else {
