@@ -242,4 +242,17 @@ Examples
 - Expertise as power
 - Keeping power - what do you really want?
 
+## 15. Power, Imperfection, and Congruence
+
+Mature patterns of behaviour
+
+- be clear when they deal with others
+- be aware of their own thoughts and feelings
+- be able to see and hear what is outside themselves
+- behave toward other people as separate from themselves and unique
+- treat differentness as an opportunity to learn and explore rather than as a threat or a signal for conflict
+- deal with persons and situations in their context, in terms of how it is rather than how they wish it were or expect it to be
+- accept responsibility for what they feel, think, hear, and see, rather than denying it or attributing it to others
+- have open techniques for giving, receiving, and checking meaning with others
+
 ---
