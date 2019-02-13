@@ -5,3 +5,4 @@ tmp/
 deploy_build/
 yarn-error.log
 .env
+artifacts/

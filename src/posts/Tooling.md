@@ -1,14 +1,12 @@
 ---
 layout: blog
-title: '[TIL] Tooling'
+title: "[TIL] Tooling"
 date: 2019-01-29T00:00:00.000Z
 thumbnail: https://www.elegantthemes.com/blog/wp-content/uploads/2015/04/web-development-tools.jpg
-rating: '5'
----
-# Tooling Note
+rating: "5"
 ---
 
-## Open file using vscode by `code file.name`
+# Open file using vscode by `code file.name`
 
 1. Launch VS code
 2. Open the Command Palette (F1)
@@ -19,7 +17,7 @@ rating: '5'
 
 ---
 
-## alias config example
+# alias config example
 
 In `.env` file add
 

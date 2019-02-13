@@ -6,8 +6,6 @@ thumbnail: https://images-na.ssl-images-amazon.com/images/I/510T3Y9382L._SX327_B
 rating: "5"
 ---
 
----
-
 ## Chapter 1. What is leadership, anyway?
 
 > Leadership is the process of creating an environment in which people become empowered.
@@ -115,7 +113,7 @@ Technical leaders possess great power in our society, but they are neither demon
 
 - **The problem-solving leader's central dogma**: Any real problem has one more solution, which nobody has found-yet
 
-- **Creative errors**:  In fact, every mistake is a new idea, if seen by a mind prepared to use it.
+- **Creative errors**: In fact, every mistake is a new idea, if seen by a mind prepared to use it.
 
 - **Stolen ideas**: You can take ideas from one person(called "plagiarising") or from many(called "research").
 
@@ -255,16 +253,14 @@ Mature patterns of behaviour
 - accept responsibility for what they feel, think, hear, and see, rather than denying it or attributing it to others
 - have open techniques for giving, receiving, and checking meaning with others
 
-
 ## Skip Orgnisation Part 16 - 19
 
 ## 20. How you will be graded as a leader
 
-- In the real world, you shouldn't get graded on your job by adding up all the parts, but by multiplying. If you're an eighty per cent performer on each of four parts of your job, you're not an eight per cent performer overall. It will be 0.8 * 0.8 * 0.8 * 0.8 = 0.4096.
-- If there 0.8 * 0.1 = 0.08 -> 0.8 * 0.2 = 0.16 > 0.9 * 0.1 = 0.09. Increasing the lower number make a better effect on increasing the higher number. Furthermore, it might be easy to improve a lower number than having a big breakthrough in big number.
+- In the real world, you shouldn't get graded on your job by adding up all the parts, but by multiplying. If you're an eighty per cent performer on each of four parts of your job, you're not an eight per cent performer overall. It will be 0.8 _ 0.8 _ 0.8 \* 0.8 = 0.4096.
+- If there 0.8 _ 0.1 = 0.08 -> 0.8 _ 0.2 = 0.16 > 0.9 \* 0.1 = 0.09. Increasing the lower number make a better effect on increasing the higher number. Furthermore, it might be easy to improve a lower number than having a big breakthrough in big number.
 - The biggest barrier to improve the weak point is the lack of self-esteem. When you're afraid you'll fail, you're likely to be right.
-- At the beginning of the leadership, people are observing for the weakest point. That's why you are trying to impress people, and they might not see it. The appreciation of the strength part comes from trust. 
-- So the first job is to establish a comfortable environment, which means getting acquainted with the new job and particularly doing things that give both parties a chance to develop trust for one another. 
-
+- At the beginning of the leadership, people are observing for the weakest point. That's why you are trying to impress people, and they might not see it. The appreciation of the strength part comes from trust.
+- So the first job is to establish a comfortable environment, which means getting acquainted with the new job and particularly doing things that give both parties a chance to develop trust for one another.
 
 ---

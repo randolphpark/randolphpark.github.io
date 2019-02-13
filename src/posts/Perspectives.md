@@ -1,15 +1,25 @@
 ---
 layout: blog
-title: 'Tips to sell new language'
-date: 2019-01-30T00:00:00.000Z
-thumbnail: https://doc.rust-lang.org/nomicon/img/safeandunsafe.svg
-rating: '5'
+title: "Perspectives and Ideas"
+date: 2019-02-14T00:00:00.000Z
+thumbnail: http://www.smallstepsbigchanges.com/wp-content/uploads/2013/10/perspective-hacks.png
+rating: "5"
 ---
 
-# Youtube Video Note
+# Career Development With Business Model Canvas
+
+Resourece
+Video: [Say goodbye to career planning: Tim Clark at TEDxPlainpalais](https://www.youtube.com/watch?v=JJsuWB3LQ_o)
+
+Canvas Example:
+
+![alt text](https://www.oreilly.com/library/view/business-model-you/9781118156315/images/ch003-f001.jpg "Logo Title Text 1")
 
 ---
-## Tips
+
+# Tips to sell new language (e.g Rust)
+
+![alt text](https://doc.rust-lang.org/nomicon/img/safeandunsafe.svg "Rust")
 
 1. don't completely rewirte software in RUST. 1) Split out slice and use RUST. 2) Proxy out into RUST
 2. show up with code
@@ -21,8 +31,7 @@ rating: '5'
 8. have a problem to solve
 9. learning curves are a blessing in disguise
 
-
-Video Reference 
+Video Reference
 _Ashley Williams - How I Convinced the World's Largest Package Manager to Use Rust, and So Can You! [Link](https://www.youtube.com/watch?v=GCsxYAxw3JQ)_
 
----
+--
