@@ -263,4 +263,9 @@ Mature patterns of behaviour
 - At the beginning of the leadership, people are observing for the weakest point. That's why you are trying to impress people, and they might not see it. The appreciation of the strength part comes from trust.
 - So the first job is to establish a comfortable environment, which means getting acquainted with the new job and particularly doing things that give both parties a chance to develop trust for one another.
 
+## 21. Passing your own leadership tests
+
+- If you really can't stand being tested, you should stay out of leadership roles. But if you want to become a leader, you can use the tests to your advantage. Tests can give you a baseline for development, letting you know what needs work. You personal style can be changed, but only by long and difficult practice. The only way to get that practice is to put yourself in situations where you can work on your present weaknesses.
+- How can you know if you're being properly prepared for the next climb? Ask yourself how many important tets you've failed recently. I start worrying if I don't fail at least five times in each workshop. If I have not failed that often, I'm probably not testing myself very thoroughly. More likely, it means that someone is protecting me from growth. Perhaps it's me.
+
 ---
