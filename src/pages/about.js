@@ -27,7 +27,8 @@ export default () => (
         Twitter: <a href="https://twitter.com/randolph_park">@randolph_park</a>
       </li>
       <li>
-        Flickr: <a href="https://www.flickr.com/photos/132162932@N05/albums">Albums</a>
+        Flickr:{" "}
+        <a href="https://www.flickr.com/photos/132162932@N05/albums">Albums</a>
       </li>
     </ul>
   </div>
