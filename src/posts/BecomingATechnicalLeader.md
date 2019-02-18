@@ -268,4 +268,47 @@ Mature patterns of behaviour
 - If you really can't stand being tested, you should stay out of leadership roles. But if you want to become a leader, you can use the tests to your advantage. Tests can give you a baseline for development, letting you know what needs work. You personal style can be changed, but only by long and difficult practice. The only way to get that practice is to put yourself in situations where you can work on your present weaknesses.
 - How can you know if you're being properly prepared for the next climb? Ask yourself how many important tets you've failed recently. I start worrying if I don't fail at least five times in each workshop. If I have not failed that often, I'm probably not testing myself very thoroughly. More likely, it means that someone is protecting me from growth. Perhaps it's me.
 
+# 22. Personal plan for change
+
+The difficulty is entirely mental, independent of the particular thing you're trying to do. I believe it is part of the hardware in our brain to resist new patterns of behaviour. In the world at large, new things are generally dangerous, so whenever we try something new, the brain tries to protect us by
+
+1. Putting us into a special state of alertness, so that we pay more attention to everything around us, not just the new activity
+2. Trying to ease us back into the old, safe pattern whenever we stop paying attention
+
+A personal achievement plan
+
+1. Set a personal achievement goal, something that is safe, novel, and can be done by yourself. The achievement should have an immediacy so that you will know right away what level of performance you have reached.
+2. Establish a baseline performance on the first day, then record your progress each day in your journal as you practice at least once a day.
+3. On the last day, be prepared to demonstrate performance and discuss what happened as you worked on your achievement.
+
+Find out your own style of achievement by observing and consolidating the pattern.
+
+## 23. Finding time to change
+
+Making more time in a day
+
+1. Listen to what other people have already learned / Let other people show you how smart they are
+2. Avoid trivial technical arguments to prove your technological superiority
+3. Choose your priorities and don't wait for a crisis to organise your activities
+4. Pay attention to what you do when there's nothing to do
+5. Get at least two for the price of one
+6. Act as review leader
+7. Act as editor
+8. Be a tutor
+9. Coordinate a speaking or training program
+10. Don't redo work you've assigned to others
+
+## 24. Finding support for change
+
+- Establish a support system that contains dozens of subsystems for technical resource support.
+- Consider individuals rather than books because their information may be more timely, more to the point, or more easily obtained.
+- Seeking support is a sign of strength, not weakness. Every top technical person I've ever met has an extensive and well-maintained support system. Only the weak technical people are afraid to admit they need support, and that's why they remain weak.
+- The paradox of problem-solving leadership is that you have to change to stay the same. It's straightforward to fall into the trap of building a support system that's just like Pete's Random Number Network. Unconsciously, you seek support from those people who will give you the answer you want to hear. The worst part about that is that you are unconscious about it. Without knowing what you are doing, you slip into a fixed pattern: either hanging on desperately to what you have or changing at every opportunity just for the sake of change.
+
+## Epilogue
+
+- If you want something that badly, perhaps you shouldn't have it.
+- The leadership doesn't come from outside through appointment. Being appointed the leader is just like taking drugs: It may carry you through some pain of getting started, but it is more likely to deaden your senses to the very information you most need. You'll never be much of a leader if you lack the ability not see yourself as others see you - something no junkie can do. Illusions about leadership can be devastating, but illusions about myself are the worst form of addiction.
+- Having bought myself a moment of self-control and before I say or do something I may regret, I ask myself three questions 1) why do I want to do this? 2) What assets do I have to contribute? 3) What liabilities do I bring?
+
 ---
