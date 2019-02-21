@@ -36,7 +36,7 @@
     "npm": "^6.8.0",
     "react": "^16.8.3",
     "react-bulma-components": "2.3.0",
-    "react-dom": "^16.8.2",
+    "react-dom": "^16.8.3",
     "react-hot-loader": "^4.7.1",
     "react-markdown": "^4.0.3",
     "react-moment": "^0.8.4",
