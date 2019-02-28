@@ -45,3 +45,9 @@ Video Reference
 _Ashley Williams - How I Convinced the World's Largest Package Manager to Use Rust, and So Can You! [Link](https://www.youtube.com/watch?v=GCsxYAxw3JQ)_
 
 --
+
+# Proactively
+
+Asking forgiveness instead of asking permission
+
+--
