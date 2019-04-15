@@ -39,7 +39,7 @@
     "react-bulma-components": "2.3.0",
     "react-dom": "^16.8.6",
     "react-hot-loader": "^4.8.2",
-    "react-markdown": "^4.0.3",
+    "react-markdown": "^4.0.8",
     "react-moment": "^0.8.4",
     "react-static": "^7.0.5",
     "recharts": "^1.5.0",
