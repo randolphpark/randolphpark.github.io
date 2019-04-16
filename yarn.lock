@@ -4023,10 +4023,10 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-extract-css-chunks-webpack-plugin@^4.0.2:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/extract-css-chunks-webpack-plugin/-/extract-css-chunks-webpack-plugin-4.3.0.tgz#01fb5ea225a78d5bd51e29b191dc1248ab320957"
-  integrity sha512-U2mCuqF9JKmyQydQQUy+tsCVCeuysgIZNZHd0eeTgIgq6gSqCnS9eaCpknyLVl3aRr8y2gkvRPzpuHS7AdvK0Q==
+extract-css-chunks-webpack-plugin@^4.3.0:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/extract-css-chunks-webpack-plugin/-/extract-css-chunks-webpack-plugin-4.3.2.tgz#dab841c62c53b50ce331eb2442f9d6f2fdc19f28"
+  integrity sha512-dTL4rwoMIwItq8KRhhgdHPcgFf7DwFRRcQBLj5F3k/WL2pSkYN//rS/dNUuRhbNgTMOV0HT60WjCVd9UGDaSOQ==
   dependencies:
     loader-utils "^1.1.0"
     lodash "^4.17.11"
@@ -8400,10 +8400,10 @@ react-smooth@~1.0.0:
     raf "^3.4.0"
     react-transition-group "^2.5.0"
 
-react-static@^7.0.5:
-  version "7.0.5"
-  resolved "https://registry.yarnpkg.com/react-static/-/react-static-7.0.5.tgz#2400d117235e20de51f35d1faba80d0022cff1ba"
-  integrity sha512-PkLOK7w0hFe48zd6yPh2MtCAkiPRdgtH8IO3LDIhfF0hH10Iidt2AgTdUUx0p+KZsgLAlcmj71SdC8UICmKUQg==
+react-static@^7.0.9:
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/react-static/-/react-static-7.0.9.tgz#840045eda8f839a59be838bb41eee656b51d48ab"
+  integrity sha512-1KnagoLgn4VXRQBvwGYgaQHNKQ2mxvNZZCFvk3SEju31vrkdYCKfmTudCDr1dKdSt9tYaCSjmtYaBocrpCkXtg==
   dependencies:
     "@babel/cli" "^7.1.5"
     "@babel/core" "^7.4.0"
@@ -8435,7 +8435,7 @@ react-static@^7.0.5:
     cors "^2.8.5"
     css-loader "^2.0.1"
     download-git-repo "^1.1.0"
-    extract-css-chunks-webpack-plugin "^4.0.2"
+    extract-css-chunks-webpack-plugin "^4.3.0"
     file-loader "2.0.0"
     fs-extra "^7.0.1"
     git-promise "^0.3.1"
