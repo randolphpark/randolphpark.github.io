@@ -25,7 +25,7 @@
     ]
   },
   "dependencies": {
-    "@octokit/rest": "^16.23.2",
+    "@octokit/rest": "^16.26.0",
     "axios": "^0.18.0",
     "gray-matter": "^4.0.1",
     "i": "^0.3.6",
