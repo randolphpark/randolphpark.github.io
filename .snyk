@@ -1,52 +1,10 @@
-# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.5
+
+version: v1.13.3
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
-  SNYK-JS-LODASH-450202:
-    - lint-staged > yup > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - recharts > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - lint-staged > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - recharts > react-smooth > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > react-hot-loader > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/core > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > webpack-bundle-analyzer > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > inquirer > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > html-webpack-plugin > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > extract-css-chunks-webpack-plugin > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > css-loader > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-hot-loader > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/core > @babel/traverse > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > optimize-css-assets-webpack-plugin > last-call-webpack-plugin > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > webpack-dev-server > http-proxy-middleware > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > react-universal-component > react-hot-loader > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/plugin-transform-modules-commonjs > @babel/helper-simple-access > @babel/types > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > babel-plugin-universal-import > @babel/helper-module-imports > @babel/types > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/plugin-proposal-class-properties > @babel/helper-create-class-features-plugin > @babel/helper-split-export-declaration > @babel/types > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/preset-env > @babel/plugin-transform-modules-umd > @babel/helper-module-transforms > @babel/helper-split-export-declaration > @babel/types > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/generator > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/generator > @babel/types > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
-    - react-static > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
-        patched: '2019-07-08T08:26:27.080Z'
+  SNYK-JS-AXIOS-174505:
+    - axios:
+        patched: '2019-05-06T08:26:35.476Z'
+    - react-static > axios:
+        patched: '2019-05-06T08:26:35.476Z'
