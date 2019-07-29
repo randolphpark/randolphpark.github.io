@@ -13,7 +13,7 @@ const App = () => (
         <Link to="/blog">Blog</Link>
       </nav>
       <div className="content">
-        <Routes />
+        <Routes default />
       </div>
     </div>
   </Root>

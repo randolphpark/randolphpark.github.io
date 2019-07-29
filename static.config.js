@@ -2,8 +2,9 @@ const fs = require("fs");
 const klaw = require("klaw");
 const path = require("path");
 const matter = require("gray-matter");
+const to = require('await-to-js');
 
-function getPosts() {
+const getPosts = () => {
   const items = [];
   // Walk ("klaw") through posts directory and push file paths into items array //
   const getFiles = () =>
@@ -52,20 +53,30 @@ export default {
   }),
   getRoutes: async () => {
     const posts = await getPosts();
-    return [
+    const result = [
       {
         path: "/blog",
-        getData: () => ({
+        getData: async () => ({
           posts
         }),
         children: posts.map(post => ({
           path: `/post/${post.data.slug}`,
           component: "src/containers/Post",
-          getData: () => ({
+          getData: async () => ({
             post
           })
         }))
       }
     ];
-  }
+    
+    return result;
+  },
+  plugins: [
+    [
+      'react-static-plugin-source-filesystem',
+      {
+        location: path.resolve('./src/pages'),
+      },
+    ],
+  ],
 };
