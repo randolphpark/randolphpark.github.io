@@ -50,4 +50,16 @@ _Ashley Williams - How I Convinced the World's Largest Package Manager to Use Ru
 
 Asking forgiveness instead of asking permission
 
+# Fullfilling life - Tim Minchin
+
+- You don't have to have a dream
+- Don't seek happiness
+- It's all luck
+- Exercise
+- Be hard on your opinions
+- Be a teacher
+- Define yourself by what you love
+- Respect people with less power than you
+- Don't rush
+
 --
