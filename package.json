@@ -47,7 +47,7 @@
     "react-static": "^6.3.9",
     "react-static-plugin-source-filesystem": "^7.1.0",
     "recharts": "^1.5.0",
-    "snyk": "^1.192.3",
+    "snyk": "^1.266.0",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
